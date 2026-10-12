@@ -1,6 +1,6 @@
-# Predicting EV Charging Station Demand — A KDD Approach
+# Predicting EV Charging Station Demand: A KDD Approach
 
-**Course:** Predictive Analytics — CA3 (End-to-End Predictive Model Development)
+**Course:** Predictive Analytics, CA3 (End-to-End Predictive Model Development)
 **Domain:** Electric-vehicle infrastructure planning / smart mobility
 
 ## Problem Statement
